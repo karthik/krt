@@ -1,5 +1,8 @@
 # Example repo for testing `holepunch`
 
+
+ [![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/karthik/krt/master?urlpath=rstudio)
+
 This repository is an example repo to test out the [`holepunch`](https://github.com/karthik/holepunch) package. It uses a few `tidyverse` packages but also the `dataRetrieval` package for the `yahara_dat` dataset.
 
 To test `holepunch`, follow these steps:
